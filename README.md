@@ -1,6 +1,6 @@
  👋 **Heya! I'm Aderemi Amos**
 
-**A Full-Stack Developer by day ☼ and pianist 🎹 at night** ☾
+**A Full-Stack Web Developer by day ☼ and pianist 🎹 at night** ☾
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
