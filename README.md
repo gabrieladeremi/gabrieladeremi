@@ -8,14 +8,14 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 
 🌍 I'm mostly active within the Ruby Community and sometimes Laravel
 
-💬 ping me about web-development, ruby on rails, javascript, laravel, development, design thinking
+💬 ping me about web-development, NodeJS, Laravel, ruby on rails, javascript, laravel, development, design thinking
 
 
 🛠  **Languages & Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,typescript,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,laravel,git,github,postman,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,laravel,git,github,postman,nodejs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
 
