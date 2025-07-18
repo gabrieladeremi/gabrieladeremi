@@ -15,7 +15,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,typescript,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,laravel,git,github,postman,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,ruby,rails,git,github,postman)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
 
